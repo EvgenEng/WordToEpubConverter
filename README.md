@@ -1,5 +1,4 @@
-# WordToEpubConverter
-Конвертация Word в EPUB
+# Конвертация Word в EPUB
 
 ## Инструкция по использованию:
 
